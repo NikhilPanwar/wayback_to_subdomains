@@ -18,10 +18,10 @@ Discovers Subdomains using waybackmachine cdx api
 4. **Examples:**
    - To discover subdomains for `example.com` and print them to the console:
      ```
-     python script_name.py -d example.com
+     python waybacktosubdomains.py -d example.com
      ```
    - To discover subdomains for `example.com` and save them to a file named `output.txt`:
      ```
-     python script_name.py -d example.com -o output.txt
+     python waybacktosubdomains.py -d example.com -o output.txt
      ```
 
